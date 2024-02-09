@@ -10,5 +10,10 @@ will take a very long time (about 5 Hours).
 2. The Jupyter Notebook named “Part 2 - Data Cleaning and Merging” is the code to clean and merge crime, policy, and socioeconomic data.
 3. The Jupyter Notebook named “Part 3 - Data Visualization & Answer to Questions” shows the questions we want to answer and our plot interpretation. 
 
-### Learning Reflection:
+### Learning Reflection
 I practiced exploratory methods for data analysis such as melting and pivoting, ploting, and building a correlation matrix. I also enjoyed the challenge of crafting a cohesive story from these datasets!
+
+### Data Sources
+1. ‘COVID-19 US state policy database (CUSP) - Stay at Home’: A .csv of stay-at-home order start date and end date across states, downloaded from the Covid-19 U.S. Policy database [link](https://statepolicies.com/).
+2. ‘GDP_per_state_table’ and ‘personal_income_data’: Socioeconomic data we collected from the U.S. Bureau of Economic Analysis [link](https://www.bea.gov/).
+3. ‘relationship_2018-2022’: data we crawled from FBI Crime Data Explorer [link](https://cde.ucr.cjis.gov/).
